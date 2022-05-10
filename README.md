@@ -33,6 +33,9 @@ A loss function was defined to calculate the distance between the set of me imga
 
 **Note:** To request access to shared file: https://drive.google.com/file/d/1lSMbi6lwSk54wdDds9QYY8Gyw47snHBK/view?usp=sharing
 
+	- You can easily create your me folder using a set of your own images.
+	- you can make use of the provided target folder to experiement.
+
 ## Amelioration
 Defining a mask as the variable you will optimize and then perform the gradient descent optimizing this variable which have already the right shape.
 
