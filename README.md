@@ -6,7 +6,9 @@ This project entails the following;
 
 	1 - The creation of an adversarial attack  of me(my images) trying resemble that of target(our case Emanuelle Macron)
 	2 - The creation of a face mask mimicking the face of our target directly. Several image colors of face mask where used to make sure there is quite a good
-variation in the face masks that were produced.
+
+Diverse variations in the face masks were produced to diversify the creation the face color intensitifies and attacks.
+![image](https://user-images.githubusercontent.com/53564338/167612396-2cfb9b4a-7cb0-4917-b3f5-26efefd70ab6.png)
 
 A number of 6 adversarial attacks were used from the Advertorch library https://advertorch-test.readthedocs.io/en/latest/advertorch/attacks.html. 
 
@@ -25,4 +27,7 @@ Face-mask resource: https://arxiv.org/pdf/2111.10759.pdf
 
 A loss function was defined to calculate the distance between the set of me imgaes to target set of images.
 ![image](https://user-images.githubusercontent.com/53564338/167611439-839a86e4-c13c-4e3b-b963-c04ba1efe0a5.png)
+
+## Amelioration
+Defining a mask as the variable you will optimize and then perform the gradient descent optimizing this variable which have already the right shape.
 
