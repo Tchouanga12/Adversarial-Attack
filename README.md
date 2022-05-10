@@ -1,5 +1,5 @@
 # Adversarial-Attack
-as outlined in Szegedy (2014). In that paper, an adversarial example for a image classification NN is defined as “an imperceptible non-random perturbation to a test image” that changes the NN’s prediction.<br>
+As outlined in Szegedy (2014). In that paper, an adversarial example for a image classification NN is defined as “an imperceptible non-random perturbation to a test image” that changes the NN’s prediction.<br>
 ![image](https://user-images.githubusercontent.com/53564338/167613362-fd765756-a17d-4552-91f0-a6d2d5d08f0f.png)
 
 
