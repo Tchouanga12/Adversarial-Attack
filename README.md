@@ -10,11 +10,11 @@ variation in the face masks that were produced.
 
 A number of 6 adversarial attacks were used from the Advertorch library https://advertorch-test.readthedocs.io/en/latest/advertorch/attacks.html. 
 
-1- MomentumIterativeAttack(Resnet - ImageNet)
-2- SparseL1DescentAttack(Resnet - ImageNet)
-3 - PGDAttack(Resnet - ImageNet)
-4 - MomentumIterativeAttack(Restnet - casia-webface)
-5 - SparseL1DescentAttack(Resnet - casia-webface)
+1- MomentumIterativeAttack(Resnet - ImageNet)<br>
+2- SparseL1DescentAttack(Resnet - ImageNet)<br>
+3 - PGDAttack(Resnet - ImageNet)<br>
+4 - MomentumIterativeAttack(Restnet - casia-webface)<br>
+5 - SparseL1DescentAttack(Resnet - casia-webface)<br>
 6 - PGDAttack(Resnet - casia-webface)
 
 Creating adversarial attack on two face detection algorithms that is;
