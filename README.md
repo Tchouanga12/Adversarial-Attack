@@ -1,4 +1,7 @@
 # Adversarial-Attack
+as outlined in Szegedy (2014). In that paper, an adversarial example for a image classification NN is defined as “an imperceptible non-random perturbation to a test image” that changes the NN’s prediction.<br>
+![image](https://user-images.githubusercontent.com/53564338/167613362-fd765756-a17d-4552-91f0-a6d2d5d08f0f.png)
+
 
 ![image](https://user-images.githubusercontent.com/53564338/167610512-b39bde7c-733e-43f3-b896-fa18c7c3cc16.png)
 
@@ -7,7 +10,7 @@ This project entails the following;
 	1 - The creation of an adversarial attack  of me(my images) trying resemble that of target(our case Emanuelle Macron)
 	2 - The creation of a face mask mimicking the face of our target directly. Several image colors of face mask where used to make sure there is quite a good
 
-Diverse variations in the face masks were produced to diversify the creation the face color intensitifies and attacks.
+Diverse variations in the face masks were produced to diversify the creation the face color intensitifies and attacks.<br>
 ![image](https://user-images.githubusercontent.com/53564338/167612396-2cfb9b4a-7cb0-4917-b3f5-26efefd70ab6.png)
 
 A number of 6 adversarial attacks were used from the Advertorch library https://advertorch-test.readthedocs.io/en/latest/advertorch/attacks.html. 
