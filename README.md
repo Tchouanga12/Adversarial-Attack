@@ -15,8 +15,8 @@ Diverse variations in the face masks were produced to diversify the creation the
 
 A number of 6 adversarial attacks were used from the Advertorch library https://advertorch-test.readthedocs.io/en/latest/advertorch/attacks.html. 
 
-	1- MomentumIterativeAttack(Resnet - ImageNet)
-	2- SparseL1DescentAttack(Resnet - ImageNet)
+	1 -  MomentumIterativeAttack(Resnet - ImageNet)
+	2 -  SparseL1DescentAttack(Resnet - ImageNet)
 	3 - PGDAttack(Resnet - ImageNet)
 	4 - MomentumIterativeAttack(Restnet - casia-webface)
 	5 - SparseL1DescentAttack(Resnet - casia-webface)
