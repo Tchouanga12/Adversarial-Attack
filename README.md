@@ -31,6 +31,8 @@ Face-mask resource: https://arxiv.org/pdf/2111.10759.pdf
 A loss function was defined to calculate the distance between the set of me imgaes to target set of images.
 ![image](https://user-images.githubusercontent.com/53564338/167611439-839a86e4-c13c-4e3b-b963-c04ba1efe0a5.png)
 
+**Note:** To request access to shared file: https://drive.google.com/file/d/1lSMbi6lwSk54wdDds9QYY8Gyw47snHBK/view?usp=sharing
+
 ## Amelioration
 Defining a mask as the variable you will optimize and then perform the gradient descent optimizing this variable which have already the right shape.
 
