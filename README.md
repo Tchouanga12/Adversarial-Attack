@@ -37,5 +37,5 @@ A loss function was defined to calculate the distance between the set of me imga
 	- you can make use of the provided target folder to experiement.
 
 ## Amelioration
-Defining a mask as the variable you will optimize and then perform the gradient descent optimizing this variable which have already the right shape.
+Defining a mask as the variable you will optimize and then perform the gradient descent optimizing the variable which has already the right shape.
 
